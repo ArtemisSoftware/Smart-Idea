@@ -1,8 +1,8 @@
-package com.artemissoftware.smartidea.data.dao
+package com.artemissoftware.smartidea.data.database.dao
 
 import androidx.room.Dao
 import androidx.room.*
-import com.artemissoftware.smartidea.data.entities.TodoEntity
+import com.artemissoftware.smartidea.data.database.entities.TodoEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao
