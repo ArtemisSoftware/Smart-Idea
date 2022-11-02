@@ -17,7 +17,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.artemissoftware.smartidea.domain.UiEvent
 import com.artemissoftware.smartidea.screens.todolist.composables.TodoItem
-import kotlinx.coroutines.flow.collect
 
 @Composable
 fun TodoListScreen(
