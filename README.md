@@ -3,7 +3,8 @@ App to register ideas
 
 ## The Brief
 
-App that alllows user to register, update and delete ideas
+App that alllows user to register, update and delete ideas.
+In case you regret deleting an idea you have 5 seconds to revert the decision
 
 
 ## Architecture & Libraries
@@ -18,8 +19,8 @@ App that alllows user to register, update and delete ideas
 
 
 
-Image #1            |  Image #2             |  Image #3           
-:-------------------------:|:----------------------------:|:----------------------------:
-<img src="images/Smart_Idea_1.jpg">    |  <img src="images/Demeter_Recipes_2.jpg">     |  <img src="images/Demeter_Recipes_3.jpg"> 
+Image #1            |      
+:-------------------------:
+<img src="images/Smart_Idea_1.jpg">    |
 
 
